@@ -7,9 +7,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-melech-venante/) [![Instagram](https://img.shields.io/badge/Instagram-E440F5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorvenante/)
 
-
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vvenante3&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvenante3&layout=compact)
 
 <div style="display: inline_block"><br/>
@@ -23,9 +20,8 @@
 </div>
 
 
+
 ![Snake animation](https://github.com/vvenante3/vvenante3/blob/output/github-contribution-grid-snake.svg)
-
-
 
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=vvenante3&repo=vvenante3&theme=react)](https://github.com/vvenante3/vvenante3)
