@@ -18,5 +18,3 @@
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img align="center" alt="Sql_Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </div>
-
-![snake gif](https://github.com/vvenante3/vvenante3/blob/output/github-contribution-grid-snake.svg)
