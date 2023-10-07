@@ -5,11 +5,8 @@
 
 <h3>Siga-me nas redes 😉</h3>
 
-<div>[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-melech-venante/) [![Instagram](https://img.shields.io/badge/Instagram-E440F5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorvenante/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-melech-venante/) [![Instagram](https://img.shields.io/badge/Instagram-E440F5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorvenante/)
 
-![Snake animation](https://github.com/artur-debv/artur-debv/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 
 
@@ -25,4 +22,10 @@
     <img align="center" alt="Sql_Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </div>
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=artur-debv&repo=artur-debv&theme=react)](https://github.com/vvenante3)
+
+![Snake animation](https://github.com/vvenante3/vvenante3/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=vvenante3&repo=vvenante3&theme=react)](https://github.com/vvenante3/vvenante3)
