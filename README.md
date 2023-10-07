@@ -1,14 +1,12 @@
-
 <h2>Seja bem vindo(a)! Me chamo Vitor. 👋</h2>
 
-
-
+<div align="center">
 <h3>Siga-me nas redes 😉</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-melech-venante/) [![Instagram](https://img.shields.io/badge/Instagram-E440F5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorvenante/)
 <br>
-
-
+</div>
+<br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vvenante3&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvenante3&layout=compact&langs_count=16&theme=radical"/>
