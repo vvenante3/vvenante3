@@ -20,8 +20,9 @@
 </div>
 
 
-
+<div>
 ![Snake animation](https://github.com/vvenante3/vvenante3/blob/output/github-contribution-grid-snake.svg)
 
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=vvenante3&repo=vvenante3&theme=react)](https://github.com/vvenante3)
+</div>
