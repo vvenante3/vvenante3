@@ -5,7 +5,12 @@
 
 <h3>Siga-me nas redes 😉</h3>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-melech-venante/) [![Instagram](https://img.shields.io/badge/Instagram-E440F5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorvenante/)
+<div>[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-melech-venante/) [![Instagram](https://img.shields.io/badge/Instagram-E440F5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorvenante/)
+
+![Snake animation](https://github.com/artur-debv/artur-debv/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vvenante3&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvenante3&layout=compact)
@@ -19,3 +24,5 @@
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img align="center" alt="Sql_Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </div>
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=artur-debv&repo=artur-debv&theme=react)](https://github.com/vvenante3)
