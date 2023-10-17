@@ -8,7 +8,7 @@
 </div>
 <br>
 <div align="center">
-  <img height="180em" src="![Vitor Melech Venante GitHub stats](https://github-readme-stats.vercel.app/api?username=vvenante3a&show_icons=true&theme=radical)"/>
+  <img height="180em" src="![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvenante3a&show_icons=true&theme=radical)"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvenante3&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
