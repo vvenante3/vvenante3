@@ -1,7 +1,11 @@
-<h2>Seja bem vindo(a)! Me chamo Vitor. 👋</h2>
+<h2>Seja bem vindo(a)! Me chamo Vitor. 👋
+<br><br>
+Welcome! I'm Vitor. 👋</h2>
 
 <div align="center">
-<h3>Siga-me nas redes 😉</h3>
+<h3>Siga-me nas redes 😉</h3> 
+<h3>Follow me on networks 😉</h3>
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-melech-venante/) [![Instagram](https://img.shields.io/badge/Instagram-E440F5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorvenante/)
 <br>
